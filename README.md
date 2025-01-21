@@ -3,11 +3,33 @@
 =============================================
 pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话优点：不用张大嘴也可发音    英文：嘴型多变，有时需要长大嘴，圆嘴，扁嘴，舌头要多动。
 =============================================
----------------------------------------------
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+一级
+--------------------------------------------------------------
+--------------------------------------------------------------
+==============================================================
+二级
+==============================================================
+
+--------------------------------------------------------------
+三级
+--------------------------------------------------------------
+
+--------------------------四级--------------------------
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+     phonetic语音的，音标的
+--------------------------------------------------------------
+--------------------------------------------------------------
+==============================================================
 24元音	vowels
----------------------------------------------
+==============================================================
 前元音	i	achieve 实现əˈtʃiːv	
-		ɪ	automated 自动化ˈɔːtəmeɪtɪd 
+		ɪ	automated 自动化ˈɔːtəmeɪtɪd  it
 		--eɪ	fail 失败 feɪl							fail	/feɪl/
 		e / ɛ	depth	深度depθ 	 		   			 	 	类似 æ    区别 小一半，			let get pen yes  
 		æ	actual 实际ˈæktʃuəl   							 versus 爱：无需张嘴  区别：嘴巴张大，短促有力	dad map said    												
@@ -40,9 +62,9 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 		ɪr 	atmosphere 气氛ˈætməsfɪr				ere
 		aɪr
 		
----------------------------------------------
+==============================================================
 24辅音	浊音.	consonant
----------------------------------------------
+==============================================================
 爆破音	
 		p
 		b .
@@ -76,10 +98,18 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 半圆音	w. 	我
 		j.	吔
 
----------------------------------------------
 发音   应该注意流畅（肌肉位置帮助发力，且更清晰），流畅自然就顺了,  张嘴度看张牙度(下颌),牙齿长大  ， 唇型 圆哦O，正常放松 ，微V /ʊ/,  微笑一 /s/
----------------------------------------------
--------连读规则（读快）---------
+--------------------------------------------------------------
+ɒ
+--------------------------------------------------------------
+英音中的/ɒ/在美音中读/ɑː/，如hot (英)/hɒt/ (美)/hɑːt/
+老版DJ音标记作/ɔ/
+由于美音读/ɑː/，因此对应KK音标的记作/ɑ/
+
+--------------------------------------------------------------
+连读规则（读快）
+--------------------------------------------------------------
+
 1.辅音+元音 两相连 look at = loo kat
 2.辅音+辅音	相似辅音读一次 Yes sir = Ye sir
 			爆破结尾失爆破 let me = le me 		爆破音遇辅音不发声 stop t
@@ -92,45 +122,28 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 6.s t d遇you(要变音)	miss you = mee	tyou /tʃuː/ 
 						did you = di dyou/dʒuː/
 
-						
--------American T---------						
+7. of 通常为 ə	
+
+--------------------------------------------------------------
+American T
+--------------------------------------------------------------						
 True T : until hotel return		两辅音cluster ST-stop  STR-street  TR-tree 	CT-fact		ST-best
 Flap T (t在两元音之间-单词)	：water = wa-der	city=ci-dy		later = la-der 		better = be-der		
-	   (t在两元音之间-双词)	: what is = wha-dis		but i = bu-die				
+	   (t在两元音之间-双词)	: what is = wha-dis		but i = bu-die		get a = ge da		
 Held T / Stop T	(end of word):	about that=abou that	it was= i was	
 				(next 辅音)	： outside= ou-side  apartment=apar-ment	
 				NT:	student=studen 	president=presiden
 Vanishing T :	internet=innernet	printer=prinner	 (native speaker	drop t	n sound instead easy to say  google上有读ʔ. 这个少
 
+--------------------------------------------------------------
+--------------------------------------------------------------
+sentence  pronunciation  句子发音
+--------------------------------------------------------------
+--------------------------------------------------------------				
 
----------------------------------------------
-词性 实词notional word 		虚词form word
----------------------------------------------
--------notional---------
-noun	名词n.				jordan  book
-pronoun	代词pron.			I you he this my
-adjective	形容词adj. / a.	good bad nice
-numeral	数词num.			one the first
-verb	动词v.				say look		transitive verb  及物动词vt. 可以直接加宾语的动作	have eat
-adverb	副词ad. /adv.		修饰动词、形容词、副词,方式和程度  very quickliy clearly
--------form---------
-article	冠词art.			限定名词 	a an the
-preposition	 介词prep.		表示时间、位置、方式、原因	at in to for
-conjunction	连词conj.		连接句子	and but if when
-interjection	感叹词int.	强烈情感	wow oh ah 	oh dear
-
-    主语  主语(从句 	谓语(从句	定语(从句		宾语(从句	谓语	宾语		主语从句
-My friend 	who		 wears   	shoulder-length   hair 		told 	me 		that Li Chen and Fan 		
-				系表(从句	壮语(从句	非限制定语从句	间接宾语从句	 直接宾语
-BingBing 	were separated yesterday, 	which reminded 		me 		the 	weak 	of 
-
-celebrity's marriage.
-
-
----------------------------------------------
-sentence	
----------------------------------------------						
--------sentence rhythm / flow / intonation / melody---------
+==============================================================
+sentence1 rhythm / flow / intonation / melody
+==============================================================
 Because it's hard to understand when speak fast if you don't speak clear content words or you stressed the wrong words
 content words/stressed syllables
 	longer
@@ -161,11 +174,13 @@ would you HELP me CLEAN this MESS
 you're HELPing me CLEAN this MESS
 you're HELPing me CLEAN up this MESS
 
----------------------------------------------
-sentence2	rhythm and intonation 15 rules
----------------------------------------------	
-=======音节重读
-------RULE ONE 	Basics of syllable stressed	基本音节重读
+==============================================================
+sentence2	rhythm and intonation 15 rules  节奏和语调15条规则
+==============================================================
+--------------------------------------------------------------
+=======音节重读	
+RULE ONE 	Basics of syllable stressed	基本音节重读
+--------------------------------------------------------------	
 ①单音节只重读第一个
 音标标注的重读音节 多听多习惯
 seat	 only one syllable	/i/
@@ -183,8 +198,9 @@ urban	'urban	  an--/ən/ not /en/
 jap'an			par'enthesis
 ir'an		ne'cessity
 
-
-------RULE TWO  	Syllables of verbs and nouns	名词和动词的音节
+--------------------------------------------------------------
+RULE TWO  	Syllables of verbs and nouns	名词和动词的音节
+--------------------------------------------------------------	
 ②	noun 2音节一般第一个音节重读		90%	；
 	verb 2音节一般第二个音节重读		60%-70%
 	多音节时：一般重读倒数第三个音节。
@@ -212,8 +228,9 @@ Where should I inSERT it?
 Do you reCALL it?
 No, l have no REcall of it.
 
- 
-------RULE THREE 	ATE words	
+--------------------------------------------------------------
+RULE THREE 	ATE words	
+--------------------------------------------------------------
 ③ate结尾的单词时：动词一般重读ate，发音为 8 ei(欸）t；名词一般轻读ate，发音为 额t[
 verb  ate like 8	长音
 noun  ate like it or at 短音 
@@ -237,6 +254,9 @@ That's just an approximate estimate.
 Thanks for the chocolate.
 I really appreciate it.
 
+--------------------------------------------------------------
+RULE THREE 	ATE words	
+--------------------------------------------------------------
 ------RULE FOUR		 Stress rules of suffixes  后缀的重读规则	
 ④ese,eer,ique为后缀时，一般重读后缀；ic为后缀时，一般重读ic前一个音节；al为后缀时，一般重读单词中间某个音节。
 ese/eer/ique	重读后缀		chinese	japanese	engineer	antique	technique
@@ -249,6 +269,9 @@ m'emory		mem'orial
 f'inance	fin'acial	
 pr'esident	pres'idential
 
+--------------------------------------------------------------
+RULE THREE 	ATE words	
+--------------------------------------------------------------
 ------RULE FIVE		How unstressed syllables work 	非重读音节的作用
 ⑤非重读音节的元音一般发成“额”/ə/，如madam,problem,symptom,album，
 不管是am,em,om,um最后都发成额m/əm/
@@ -268,8 +291,12 @@ de'velop
 infor'mation
 co'mmercial
 
-=======单词重读
-------RULE SIX		Basics of stressing the right words within sentences 	句子中单词重读的依据
+--------------------------------------------------------------
+=======单词重读	
+RULE SIXBasics of stressing the right words within sentences 	
+句子中单词重读的依据
+--------------------------------------------------------------
+
 ⑥实词(如名词，动词，形容词，副词，反身代词等）重读，虚词(如介词，代词等）非重读。
 __________————————________———————____————______________————			
 I will be \driving to the \market to \buy something to \eat.
@@ -290,7 +317,11 @@ There was so much tO LEARN
 
 don't put to much melody just jump up 
 
-------RULE SEVEN	Foucus words and thought groups  焦点词和虚拟分组（焦点词(重读)分段）
+--------------------------------------------------------------
+RULE SEVEN	Foucus words and thought groups  焦点词和虚拟分组（焦点词(重读)分段）
+--------------------------------------------------------------
+
+
 ⑦断句，长句分段		根据自然区分，一般在焦点词重读后分段
 __________————————	________———————	 ____————______________————			
 I will be \driving	 to the \market	 to \buy something to \eat.
@@ -309,7 +340,10 @@ When we CLIMBED/
 to the top of the MOUNTAIN/
 we could see the OCEAN.
 
-------RULE EIGHT	How to stress adjectives and nouns 怎样重读形容词和名词 
+--------------------------------------------------------------
+RULE EIGHT	How to stress adjectives and nouns 怎样重读形容词和名词 
+--------------------------------------------------------------
+
 ⑧形容词修饰名词时，重读名词。如it's a hot 'day. 只有形容词时，重读形容词。如it's 'hot.
  名词前有两个形容词，重读第一个形容词和名词 'Big black 'Dog . 'Angry old 'Man . 'Long hot 'shower
 That was FAST.
@@ -342,7 +376,10 @@ has four DOORS.
 I read a good BOOK
 during the long FLGHT.
 
-------RULE NINE		Compound nouns 复合名词的重读   
+--------------------------------------------------------------
+RULE NINE		Compound nouns 复合名词的重读
+--------------------------------------------------------------
+   
 ⑨两个名词、复合名词或者动词+介词组成的名词时，重读第一个词。如'credit card, 'fore head, 'work out.
 复合名词（两个名词来表达一件事务）
 注意：应连在一起读,不要分开读。CREDITcard EARring HAIRstyle HAIRcolor LAPtop WASHmachine
@@ -369,7 +406,10 @@ in the TRASHcan.
 I bought a BlRTHDAY present
 for my ROOMmate.
 
-------RULE TEN	Rules for stressing phrasal verbs  动词短语的重读规则
+--------------------------------------------------------------
+RULE TEN	Rules for stressing phrasal verbs  动词短语的重读规则
+--------------------------------------------------------------
+
 ⑩动词短语时，重读后面的介词。如pick 'up, make 'up, turn it 'on. (把动词短语当做一个动词重读后面，把名词短语当一个名词重读前面)
 中间有名词或代词时一样
 pick it 'up
@@ -388,7 +428,10 @@ why it broke DOWN.
 When he grew UP
 he moved OUT.
 
-------RULE ELEVEN	Names of places and people	人名和地名 
+--------------------------------------------------------------
+RULE ELEVEN	Names of places and people	人名和地名
+--------------------------------------------------------------
+
 ⑪两个词组成的地名，重读第二个词。如Las 'Vegas  
  两个词或三个词组成的人名，重读最后一个即姓氏。如Gorge 'Washington,John Fizerald 'Kennedy
 
@@ -407,7 +450,10 @@ president of the United STATES
 Is that Julia ROBERTS or
 Nicole KIDMAN?
 
-------RULE TWELVE	Abbreviations and numbers 
+--------------------------------------------------------------
+RULE TWELVE	Abbreviations and numbers 缩写和数字
+--------------------------------------------------------------
+
 ⑫缩写词时，重读最后一个字母。如CN'N。
 数字时，重读最后一个数字。如379'9。
 I went to work at 9:15
@@ -423,7 +469,10 @@ When they got married
 he was 3l and she was 29.
 
 
-------RULE THIRTEEN	Stress for special emphasis	特殊重读 （强调原因）
+--------------------------------------------------------------
+RULE THIRTEEN	Stress for special emphasis	特殊重读 （强调原因）
+--------------------------------------------------------------
+
 ⑬出于强调或说明某样东西的原因，可以对任何单词重读
 （不同语境下的重读不一样）
 MARY made a cake
@@ -446,8 +495,11 @@ Mary made a cake
 for my BIRTHDAY.
 -not for Christmas
 
-=======声调重读		Stress just jump hight ,  that is difference  
-------RULE FOURTEEN Rising and falling intonation 节奏和语调 声调
+--------------------------------------------------------------
+声调重读		Stress just jump hight ,  that is difference  
+RULE FOURTEEN Rising and falling intonation 节奏和语调 声调	
+--------------------------------------------------------------
+
 ⑭statement=pitch goes down陈述句、特殊疑问句(通常是带wh开头的疑问句，2.WH when where what why how why）读降调，降调表示肯定，自信，果断等。I like it . Have a nice Day. I'm hungry because i haven't eaten all day.
 1.Yes/no 一般疑问句(可以用yes和no回答的疑问句)读升调。
 委婉，委托，请求，迟疑，不确定，不自信等语气时读升调。比如would you....
@@ -468,8 +520,9 @@ been to New York?\
 Did it start?/
 What time did it start? \
 
-
-------RULE FIFTEEN	 Changing Intonation	节奏和语调  声调变化 
+--------------------------------------------------------------
+RULE FIFTEEN	 Changing Intonation	节奏和语调  声调变化
+--------------------------------------------------------------
 ⑮Items in series表示列举一系列事物时，前面所有的事物都要用升调/，直到最后一个恢复降调\。up up up down I I WOKE UP, ATE BREAKFAST,and went to work
 Not finish speaking 一句话说了一半，说了一部分或者还没说完时就暂停用升调/(让别人知道你还没说完，作用像逗号)，说到句末用降调\.	up down
 introductory words引导性的文字，使用升调"on the other hand", "however", "in my opinion" 此类后面一般跟着逗号"on the other hand/, l'll take the blue one\."if you ask me/, l think it's a good job\
@@ -490,6 +543,55 @@ allergic to anything.
 
 According to the weather report,
 it's going to rain.
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+句子	
+--------------------------------------------------------------
+--------------------------------------------------------------
+==============================================================
+实词notional word
+==============================================================
+noun	名词n.				jordan  book
+pronoun	代词pron.			I you he this my
+adjective	形容词adj. / a.	good bad nice
+numeral	数词num.			one the first
+verb	动词v.				say look		transitive verb  及物动词vt. 可以直接加宾语的动作	have eat
+adverb	副词ad. /adv.		修饰动词、形容词、副词,方式和程度  very quickliy clearly
+==============================================================
+虚词form word
+==============================================================
+article	冠词art.			限定名词 	a an the
+preposition	 介词prep.		表示时间、位置、方式、原因	at in to for
+conjunction	连词conj.		连接句子	and but if when
+interjection	感叹词int.	强烈情感	wow oh ah 	oh dear
+
+    主语  主语(从句 	谓语(从句	定语(从句		宾语(从句	谓语	宾语		主语从句
+My friend 	who		 wears   	shoulder-length   hair 		told 	me 		that Li Chen and Fan 		
+				系表(从句	壮语(从句	非限制定语从句	间接宾语从句	 直接宾语
+BingBing 	were separated yesterday, 	which reminded 		me 		the 	weak 	of 
+
+celebrity's marriage.
+
+==============================================================
+30min will know of sentence
+==============================================================
+1.主谓（一个句子中最不可或缺的部分）： You jump, I jump.
+2.主谓宾（宾语是主语的对象）： I love him.
+3.主谓宾（人）宾（物）： please do me(人) a favor(物).
+	检验双宾句型的原则：两个宾语可以通过介词to/for调换位置  please do a favor for me .
+4.主谓宾补
+
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+sounds
+--------------------------------------------------------------
+--------------------------------------------------------------
+
 						
 ---------------------------------------------前元音， 发音位置比较靠前，主要在嘴部发出
 /iː/ /i/	微嘴 张大唇绷紧  绷紧舌头抬高前推	：张牙2 大唇倒D瘦紧 高舌中紧前推 
@@ -768,6 +870,7 @@ etc.: pizza, paparazzi
 
 
 
+
 Areas to work to become a native speaker:
 地区
 
@@ -791,3 +894,10 @@ Areas to work to become a native speaker:
 
 
 16:27 Main thing - work on your pronunciation!
+
+
+
+
+
+
+
