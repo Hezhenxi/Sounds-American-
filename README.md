@@ -1,4 +1,5 @@
 # Sounds-American-
+
 英语替换，先回车把共同特征分散给行，再正则
 =============================================
 pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话优点：不用张大嘴也可发音    英文：嘴型多变，有时需要长大嘴，圆嘴，扁嘴，舌头要多动。
@@ -255,9 +256,9 @@ Thanks for the chocolate.
 I really appreciate it.
 
 --------------------------------------------------------------
-RULE THREE 	ATE words	
+RULE FOUR		 Stress rules of suffixes  后缀的重读规则	
 --------------------------------------------------------------
-------RULE FOUR		 Stress rules of suffixes  后缀的重读规则	
+
 ④ese,eer,ique为后缀时，一般重读后缀；ic为后缀时，一般重读ic前一个音节；al为后缀时，一般重读单词中间某个音节。
 ese/eer/ique	重读后缀		chinese	japanese	engineer	antique	technique
 ic	重读后缀前的组合音节		realistic	strategic	pacific
@@ -270,10 +271,11 @@ f'inance	fin'acial
 pr'esident	pres'idential
 
 --------------------------------------------------------------
-RULE THREE 	ATE words	
+RULE FIVE		How unstressed syllables work 	非重读音节的作用
 --------------------------------------------------------------
-------RULE FIVE		How unstressed syllables work 	非重读音节的作用
-⑤非重读音节的元音一般发成“额”/ə/，如madam,problem,symptom,album，
+
+⑤非重读音节的元音一般发成“额”/ə/，如madam,problem,symptom,album，grammar/ˈɡræmər/
+
 不管是am,em,om,um最后都发成额m/əm/
 
  - /əm/	   /ə/	    重音后削弱元音
@@ -569,29 +571,161 @@ interjection	感叹词int.	强烈情感	wow oh ah 	oh dear
 
     主语  主语(从句 	谓语(从句	定语(从句		宾语(从句	谓语	宾语		主语从句
 My friend 	who		 wears   	shoulder-length   hair 		told 	me 		that Li Chen and Fan 		
-				系表(从句	壮语(从句	非限制定语从句	间接宾语从句	 直接宾语
+				系表(从句	状语(从句	非限制定语从句	间接宾语从句	 直接宾语
 BingBing 	were separated yesterday, 	which reminded 		me 		the 	weak 	of 
 
 celebrity's marriage.
 
 ==============================================================
-30min will know of sentence
+30min will know of sentence 主干+修饰成分
 ==============================================================
+--------------------------------------------------------------
+主干五大句型（简单句/只有一套主谓结构）
+--------------------------------------------------------------
 1.主谓（一个句子中最不可或缺的部分）： You jump, I jump.
 2.主谓宾（宾语是主语的对象）： I love him.
 3.主谓宾（人）宾（物）： please do me(人) a favor(物).
 	检验双宾句型的原则：两个宾语可以通过介词to/for调换位置  please do a favor for me .
-4.主谓宾补
+4.主谓宾补（补充说明宾语）； I found the book easy(the book 是 found的对象，easy是用来修饰the book的),  You make me happy
+	检验是否宾补句型的原则：宾语和补语之间加一个系动词，可以构成语义通顺的句子 the book is easy
+5.主系表（说明主语的状态）：She is pretty.
+
+------------------------英语黄金思维第一条：动词构成了一个句子的骨架结构--------------------------------------
+动词决定了一个句子是否有宾语，有几个宾语以及其他句子成分
+先找动词再找其他成分 --
+Times flies by
+主		--
+It slipped my mind
+主  --		宾
+I	send you an E-mail
+主  -- 	间宾   直宾
+It	cost me three dollars
+主	--	 间宾	直宾
+You can leave the door 		open 
+主		--		宾语    宾语补足语
+That is a smart answer
+主   --	表语
+
+------------------------英语黄金思维第二条：表达多个动作概念--------------------------------------
+一个简单句只有一个谓语，如果要表达多个动作概念，有三种方式
+1.使用连词
+2.使用非谓语动词 
+3.使用从句
+
+There are many lovers become strangers finally  : 此句是错误的，一个句子只能由一个动词。这里面有两个动词，所以另外一个动词需要改变形式
+1.并列连词	There are many lovers and they become strangers finally
+2.从句  	There are many lovers who become strangers finally.
+3.非谓语动词There are many lovers becoming Strangers finally.
+
+
+ps:非谓语动词
+又叫非限定动词，非谓语动词是指在句子中不是谓语的动词
+主要包括不定式Infinitive "to do"、动名词Gerund -ing和分词Participle（现在分词ing和过去分词ed），即动词的非谓语形式。 
+非谓语动词除了不能独立作谓语外，可以承担句子的其他成分。
+
+--------------------------------------------------------------
+任何高阶复杂的juice都是从这五种简单句型演化而来
+--------------------------------------------------------------
+复杂句子：简单句扩大、组合、省略、倒装等变化，
+----------------------任何长难句都是简单句型的演变----------------------------------------
+挑出长难句中的关键结构来解析句子
+The documentary was ( so )popular with her 
+subject (that) more than 30 million watched it.
+Yet the Queen regretted giving the BBC
+behind-the-scenes access for the 1969 film 
+and requested  (it never be broadcast again).
+
+The documentary ....whatced it.
+首句so....that  引导的结果状语从句，so 后面接了形容词popular
+subject常用作名词，主题。文中是臣民的意思。
+表示这部纪录片在女王的臣民中非常受欢迎，以至于超过3000万人都看过
+Yet the Queen...be broadcast again.
+第二句behind-the-scenes accese 可以理解幕后访问机会。
+it never be broadcast again是省略了that的宾语从句，解释说明女王并不支持这部电影
+
+----------------------定语状语：句子中的修饰成分----------------------------------------
+看不懂句子的罪魁祸首
+英语句子= 主干 		+ 		修饰成分
+		 五种简单句		定语  +  状语
+
+修饰名词的叫定语：修饰限定名词
+修饰其他词的叫状语：——把句子【壮大】
+
+----------------------定语修饰限定名词----------------------------------------
+形容词
+定语从句：引导词+陈述句
+介词短语：介词+名词
+非谓语动词：to do 、doing 、done
+
+形容词： 		She is a 【lovely】 girl.
+定语从句		New York is the place 【that he would like to visit.】
+介词短语		The girl 【in red】 is my sister.
+非谓语动词			
+the girl [standing] there = the girl 【who is standing】 there.
+the building [completed] yesterday = the building 【that was completed】 yesterday.
+I have someting [to say] = I have someting 【that i want to say】.
+非谓语动词通常可以变成定语从句。
+
+PS: 限定词
+置于名词之前，作用在于限定名词的意涵
+    定冠词 : the
+    不定冠词 : a, an
+    指示词 : this, that, these, those
+    代名词和物主限定词 : my, your, his, her, its, our, their
+    量词 : a few, a little, much, many, a lot of, most, some, any, enough
+    数字 : one, ten, thirty
+    个别词 : all, both, half, either, neither, each, every
+    区别词 : other, another
+    前置限定词 : such, what, rather, quite
+
+
+----------------------状语扩大句子----------------------------------------
+名词
+副词
+状语从句：引导词+陈述句
+介词短语：介词+名词
+
+名词: come 【this way】
+副词: speak 【politely】
+介词短语：Can you say it 【in Enghlish】?
+状语从句：I enjoyed myself 【when I visited my friemds in Shanghai last year】.
+非谓语动词： 【Having finished the homework】, I went home.			Gerund 动名词  -ing 
+			 【Given more time】, I could write the essay better.   Participle  过去分词/现在分词 -ed/-ing
+			 【To give the teacher a good impression】, I decided to help her.    Infinitive不定式 -to do
+			 
+考研句子也这么简单，例句：
+During the past generation, the American middle-class family that onece could count on hard work and fiare play to keep itself financially secure has been transformed by economic risk and new realities.
+1.找主干  the American middle-class family (主语)  has been transformed (谓语).
+2.修饰成分
+	定语从句：that once could count on hard work and fair play to keep itself financially secure -修饰middle-class family
+	状语：During the past twenty years 	-修饰整个句子
+		  by economic risk and new realities. -修饰transformed
+
+总结：拆分句子结构，剔除修饰成分，拎出本句的谓语动词和简单句骨骼。 
+		再逐个翻译修饰成分，并组成完整的句意。
 
 
 
+
+
+
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+英语16时态 	tense
+--------------------------------------------------------------
+--------------------------------------------------------------
+					过去								现在						将来							过去将来
+一般式			一般过去式did						一般现在式do				一般过去式will do					would/should do
+进行式		过去进行式was/were doing		现在进行式am/is/are doing			将来进行式will be doing				would be doing
+完成式		过去完成式had done				现在完成式have/has done				将来完成式will have done	        would have done
+完成进行式	过去完成进行式had been doing  现在完成进行式have/has been doing   将来完成进行式will have been doing   would been doing
 
 --------------------------------------------------------------
 --------------------------------------------------------------
 sounds
 --------------------------------------------------------------
 --------------------------------------------------------------
-
 						
 ---------------------------------------------前元音， 发音位置比较靠前，主要在嘴部发出
 /iː/ /i/	微嘴 张大唇绷紧  绷紧舌头抬高前推	：张牙2 大唇倒D瘦紧 高舌中紧前推 
@@ -895,9 +1029,69 @@ Areas to work to become a native speaker:
 
 16:27 Main thing - work on your pronunciation!
 
+--------------------------------------------------------------
+--------------------------------------------------------------
+How to speak english fluently like native language
+--------------------------------------------------------------
+--------------------------------------------------------------
+Makoto学习语言很重要的理论：
+==============================================================
+comprehensible input 理论
+==============================================================
+可理解的输入,
+--------------------------------------------------------------
+不是通过读书和考试学会语言
+--------------------------------------------------------------
 
+  哑巴英语，没有实践
+  思维没有像母语者思维
+  
+--------------------------------------------------------------
+获得语言需要接触大量的自然语言
+--------------------------------------------------------------
 
+大脑是模式理解机器 pattern recognition machine  
 
+--------------------------------------------------------------
+通过大量的输入，去生成对应适合的回答。自然脱口而出无需翻译母语。
+--------------------------------------------------------------
+
+累积越多的模式，就会产生口语直觉
+
+--------------------------------------------------------------
+透过理解无意识下吸收语言
+--------------------------------------------------------------
+
+需要通过理解来吸收听到的语言
+要接受一些不明确的地方，no need check out dictionary fruquntcy, 
+常常遇到不懂才去查。
+no need focuse on single vocabulary, focuse on entire sentence， hear and read and speak rhythm as a sentence
+
+--------------------------------------------------------------
+学习语言和获得语言的差别
+--------------------------------------------------------------
+
+获得语言是在无意识下获得（话费）
+大脑 focuse mode     diffuse mode
+专注 脑内连接点会局限   
+           发散 会增加连接点 累积模式
+
+--------------------------------------------------------------
+前期需要大量的输入，且大量输出
+--------------------------------------------------------------
+
+i+1 ,随着程度提升，接触语言的程度也要提升。
+从80% 90%后，去看50%·60% 拉高看的内容去提高，enjoy & intresting
+
+through the vocabulary to speak in a scenarios. and collecting scenarios word and sentence.
+
+==============================================================
+Not only comprehensible input 理论
+==============================================================
+
+上面像小孩子学母语去学，单前提是有大量的输入基础
+对理论的补充：要想学得快，加速
+有意识的学，发音，记单词的句子
 
 
 
