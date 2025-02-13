@@ -1,8 +1,16 @@
 # Sounds-American
+
 英语替换，先回车把共同特征分散给行，再正则
 
-pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话优点：不用张大嘴也可发音    英文：嘴型多变，有时需要长大嘴，圆嘴，扁嘴，舌头要多动。
+pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     
+中文说话优点：不用张大嘴也可发音    英文：嘴型多变，有时需要长大嘴，圆嘴，扁嘴，舌头要多动。
+every single vocabulary should be pronuciation clearly 每个单词都需要发音清楚，大都短而清楚，避免吞音。
+音标发音标准应该是为人们轻松清洗发出音节为目标，而不是自己给自己加大难度。
 
+reference video
+Sounds American IPA		https://soundsamerican.net/
+美国斯坦福大学语言学教授Lisa kk音标 	https://www.bilibili.com/video/BV12J411D7W7?vd_source=179f5cebc960468109d655e8670af6c9&p=2&spm_id_from=333.788.player.switch 
+半小时搞定语法	https://www.zhihu.com/question/30030877/answer/768501967
 
 # 一级
 ## 二级
@@ -10,85 +18,106 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 #### 四级
 
 
-
-
 # phonetic语音的，音标的
-
-
 
 ## 24元音	vowels
 
-前元音	i	achieve 实现əˈtʃiːv	
-		ɪ	automated 自动化ˈɔːtəmeɪtɪd  it
-		--eɪ	fail 失败 feɪl							fail	/feɪl/
-		e / ɛ	depth	深度depθ 	 		   			 	 	类似 æ    区别 小一半，			let get pen yes  
-		æ	actual 实际ˈæktʃuəl   							 versus 爱：无需张嘴  区别：嘴巴张大，短促有力	dad map said    												
+neutral 中性元音/ˈnuːtrəl/  very relaxed
+tense    lips even tongue tense		  
+									lips 	  tongue				  mouth
+
+前元音	
+		i		舌头前部往前上顶						be /bi/			2		achieve 实现əˈtʃiːv		Ps:  嘴巴尽可能宽 tense (Lisa-紧自然宽)
+	nu	ɪ		抬舌									it /ɪt/			2.5		automated 自动化ˈɔːtəmeɪtɪd  it
+		--eɪ											make /meɪk/		3-2.5	fail	/feɪl/		fail 失败 feɪl
+	nu	e / ɛ	舌尖几乎顶住下牙						bed	/bed/		4 		depth	深度depθ 	 类似 æ    区别 小一半，	let get pen yes  
+		æ	   	舌尖顶住下牙 		 nu					cat /kæt/		4.5 	actual /ˈæktʃuəl/versus 爱：无需张嘴- 用中文wrong way to teach 区别：嘴巴张大，短促有力 dad map said	IPA lip tongue都是relax					
 									
 
-中元音  ə 	adapt 适应əˈdæpt						
+中元音 
+	nu	ə 		/ʌ/-Lisa美语							ago /əˈɡoʊ/		3		adapt 适应əˈdæpt	句子中介词，冠词元音会弱化为ə
 
-后元音	ʌ	budget	预算ˈbʌdʒɪt				张牙4 倒D肥 放松 舌头正常中央	啊平
-		ɑː	hotspot 热点ˈhɑːt spɑːt			张牙5 倒D肥++ 舌紧低/尖近牙	啊/
-		u	router 路由  ˈruːtər	
-		ʊ	portfolio 文件夹pɔːrtˈfoʊlioʊ
-		-- oʊ/əʊ	overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/							
-		ɔː /ɒ oriented 面向的ˈɔːrientɪd						 versus 哦：无需张嘴  区别：嘴巴抡圆了 +  ː延长   door floor poor store   ɒ/ɔ : dog dɔɡ/dɔːɡ  hot lot shop
+后元音	
+	nu	ʌ		长大嘴的ə额								just /dʒʌst/	4		budget	预算ˈbʌdʒɪt		张牙4 倒D肥 放松 舌头正常中央	
+		ɑː/ɒ	舌尖顶住下牙 啊/	  nu				got /ɡɑːt/		5		hotspot 热点ˈhɑːt spɑːt		张牙5 倒D肥++ 舌紧低/尖近牙	   /ɒ 对应 ɑ  ，有时ɒ/ɔ
+		u		整个舌头往后扯上提						blue /bluː/		2		
+	nu	ʊ		整个舌头往后扯上提						put /pʊt/		2.5		portfolio 文件夹pɔːrtˈfoʊlioʊ
+		-- oʊ/əʊ	整个舌头往后扯上提					go /ɡoʊ/		3-2.5				overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/							
+		ɔː  	整个舌头往后扯上提 有时 ɒ/ɔ				all /ɔːl/	 	4.5		oriented 面向的ˈɔːrientɪd	versus 哦：无需张嘴  区别：嘴巴抡圆了+ ː延长  door floor poor store   dog dɔɡ/dɔːɡ  hot lot shop 英音舌头不往后
 		            		 		 													
 
 开合
-双元音 	aɪ	digest	消化 ’daɪdʒes					file	文件/faɪl/	 舌紧低/尖近牙	爱
-		aʊ	cloudy 多云、阴天ˈklaʊdi				foul	犯规/faʊl/
-		ɔɪ	disappointed 失望的ˌdɪsəˈpɔɪntɪd 		fault   错误/fɔːlt/
-		eɪ	fail 失败 feɪl							fail	失败/feɪl/
-		oʊ/əʊ	overcast 阴天 美/ˌoʊvərˈkæst/	 英/ˌəʊvəˈkɑːst/							 
+双元音 	aɪ		舌尖顶住下牙-抬舌						like /laɪk/		5-2.5		digest	消化 ’daɪdʒes		file	文件/faɪl/	 舌紧低/尖近牙	爱
+		aʊ		舌尖顶住下牙-整个舌头往后扯上提			cloud /klaʊd/	5-2.5		cloudy 多云、阴天ˈklaʊdi		foul	 犯规/faʊl/		au一般读ɔː哦 auto author   ou一般读aʊ奥
+		ɔɪ	 	整个舌头往后扯上提-抬舌					boy /bɔɪ/		4.5-2.5		disappointed 失望的ˌdɪsəˈpɔɪntɪd		fault   错误/fɔːlt/	
+		eɪ		张嘴-抬舌	数字8						make /meɪk/		3-2.5		eight /eɪt/fail 失败 /feɪl/		fail	失败/feɪl/
+		oʊ/əʊ	整个舌头往后扯上提 						go /ɡoʊ/		3-2.5		overcast 阴天		美/ˌoʊvərˈkæst/	 英/ˌəʊvəˈkɑːst/							 
 		
 		
 儿化
-元音	ɑːr archive  归档 ˈɑːrkaɪv					ar
-		er	barely 仅仅，几乎ˈberli					are
-		ər	advisor 顾问/ædˈvaɪzər					or
-		ɔːr	oriented 面向的ˈɔːrientɪd				or
-		ɜːr/ɝ	certain 确定/某些sɜːrtn				er		word 单词/wɜːrd/   世界world/wɜːrld/
-		ɪr 	atmosphere 气氛ˈætməsfɪr				ere
-		aɪr
+元音	ɑːr 	舌尖顶住下牙+莲花舌						car	/kɑːr/		5-1			ar		archive  归档 ˈɑːrkaɪv
+		er		舌尖几乎顶住下牙+莲花舌					chair /tʃer/	4-1			are		barely 仅仅，几乎ˈberli
+		ər /ɚ	+莲花舌		其实是单音节				after /ˈæftər/	3			or		英/ˈɑːftə(r)/ 		advisor 顾问/ædˈvaɪzər
+		ɔːr		整个舌头往后扯上提+莲花舌				sport /spɔːrt/	4.5-1		or		oriented 面向的ˈɔːrientɪd
+		ɜːr/ɝ	莲花舌		其实是单音节				first /fɜːrst/	3			er		certain 确定/某些sɜːrtn		word 单词/wɜːrd/   世界world/wɜːrld/
+		ɪr 		抬舌+莲花舌								hero /ˈhɪroʊ/	2.5-1		ere		atmosphere 气氛ˈætməsfɪr
+		aɪr		舌尖顶住下牙+抬舌+莲花舌				fire /ˈfaɪər/   5-2.5-1
 		
 
-## 24辅音	浊音.	consonant
+## 24辅音  	consonant
+清音surd	浊音.sonant(喉咙声带震动)  
+ps: 元音接浊辅音，元音都会变长  
 
 爆破音	
-		p
-		b .
-		t
-		d .
-		k	后舌触上喉
-		g .	舌后触上喉
-		 
-摩擦音	f
-		v.	
-		s
-		z.
-		θ
-		ð.
-		ʃ
-		ʒ.
-		h
-		r.
-			t̬.	t to d  water	flap t
-			ʔ.  t/tt to 轻快的舌尖顶上颚啊-	n	button	-more native  
-	
-破擦音  tʃ	舌尖顶上颚 放气
-		dʒ.	舌尖顶上颚 放气
-
-鼻辅音  m. 闭唇
-		n. 舌尖顶上颚
-		ŋ.
+		p	抿嘴爆破 嘴皮要动							pie /paɪ/       2
+		b.	抿嘴爆破 嘴皮要动							boy /bɔɪ/		2
 		
-舌边音	I.	舌尖顶上颚  u
+		t	舌尖抵上颚阻止气流，后拉舌释放气流			toy /tɔɪ/		1-2
+		d.	舌尖抵上颚阻止气流，后拉舌释放气流			dog /dɔːɡ/		1-2
+		
+		k	后舌触上喉									key /kiː/		1-2
+		g .	舌后触上喉									gift /ɡɪft/		1-2
 
-半圆音	w. 	我
-		j.	吔
+		 
+摩擦音	（气流都是从舌头上过）
+		f	轻咬下唇 让气流通过							fun /fʌn/		1
+		v.	轻咬下唇 让气流通过							very /ˈveri/	1
+		
+		s	舌尖上翘   清音接/s/						sun /sʌn/		1
+		z.	舌尖上翘   浊音，元音接/z/					zoo /zuː/		1
+		
+		θ	轻咬舌尖 让气流通过							think /θɪŋk/	1
+		ð.	轻咬舌尖 让气流通过							this /ðɪs/		1
+		
+		ʃ	舌中部斜向上顶								show /ʃoʊ/		1
+		ʒ.	舌中部斜向上顶											vision /ˈvɪʒn/  1   与
+		
+		h	小嘴哈气									home /hoʊm/		2
+
+		r.	舌头莲花形	卷曲 good&strong				run /rʌn/		1		英音r一般不发音  
+		
+			浊化
+			t̬.	t to d.  water	flap t					water /ˈwɔːt̬ər/ 1-2
+			ʔ.  t/tt to n.	vanishing t	       			button /ˈbʌtn/	1		-more native 
+
+	
+破擦音  （气流都是从舌头上过）
+		tʃ	舌尖顶上颚 放气  撤							chair /tʃer/ 	1
+		dʒ.	舌尖顶上颚 放气  举 doge /doʊdʒ/			job /dʒɑːb/	 	2 	IPA为 者（IPA纯发音不一定对，更重一点）	
+
+鼻辅音  （声流从鼻子出）
+		m.  闭唇										map /mæp/       0
+		n.  舌尖顶上颚									nice /naɪs/		1
+		ŋ.  整个舌头往后扯上提且舌尾触上											thing /θɪŋ/		2
+		
+舌边音	I.	舌尖顶上颚  wu	Lisa 饿 					let /let/		1		fail 失败 /feɪl/     发音软且长
+
+半圆音	w. 	我	圆嘴 吹气让空气通过						way /weɪ/ 		1-2.5
+		j.	吔	舌头中部往前上顶						yes /jes/		1
+
 
 发音   应该注意流畅（肌肉位置帮助发力，且更清晰），流畅自然就顺了,  张嘴度看张牙度(下颌),牙齿长大  ， 唇型 圆哦O，正常放松 ，微V /ʊ/,  微笑一 /s/
+发准每一个辅音，确保舌头和嘴巴在正确的位置
 
 ### ɒ
 
@@ -102,7 +131,9 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 
 1.辅音+元音 两相连 look at = loo kat
 2.辅音+辅音	相似辅音读一次 Yes sir = Ye sir
-			爆破结尾失爆破 let me = le me 		爆破音遇辅音不发声 stop t
+			失爆p b. t d. k g.	爆破音遇辅音不发声 stop tall = sto tall	
+			爆破结尾失爆破 let me = le me 		
+			
 3.元音+元音 多个音	see it = see /j/it
 					do it = do	/w/it
 4.省略h(常用her him)	tell him = tell im
@@ -114,6 +145,10 @@ pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     中文说话
 
 7. of 通常为 ə	
 
+PS: 浊化
+s后面的清辅音要浊化  t to d.  k to g. p to b. stand skin spend sky
+清辅音左右为元音 	better water bucket
+清辅音后面为/l/		little   vocal 
 
 ### American T
 						
@@ -128,7 +163,6 @@ Vanishing T :	internet=innernet	printer=prinner	 (native speaker	drop t	n sound 
 
 
 # sentence  pronunciation  句子发音
-
 				
 
 
@@ -164,12 +198,277 @@ would you HELP me CLEAN this MESS
 you're HELPing me CLEAN this MESS
 you're HELPing me CLEAN up this MESS
 
+## Vowel Sound 10 Rules You Need To Know
+
+### vowels元音介绍
+### RULE ONE Understanding Neutral and Tense Vowels  认识中性元音和紧元音
+ɪ e/ɛ ə/ʌ ʊ
+
+### RULE TWO "sit" or "seat"
+/i/  lip tongue tense  spelled with letter ee ea ie ei
+/ɪ/		i  y
+seat sit
+feet fit
+leave live
+sleep slip
+these this
+最主要区别是relaxed 和 tense ，不是long 和 short
+有时stressed时，neutral也会变长，如 It is so biiig /bɪɡ/
+
+### RULE THREE "cop" or "cup"
+/ɑ/  o a
+/ə/  u ou o
+shot  shut
+don   done
+lock  luck
+cop   cup
+not   nut
+robber  rubber
+always prolong /ɑ/ in the stressed syllable : That's impossible , It's my job
+
+### RULE ROUR "pool" or "pull"
+/u/  oo  ue
+/ʊ/  oo  ould  u
+fool  full
+Luke  look
+pool  pull
+
+oo非常频繁，分不清时需要查字典看发音。
+
+### RULE FIVE [æ] as in Apple
+/æ/  a 
+
+It's /ɑ/ with a smile
+
+### RULE SIX [ɔ] in Ball
+/ɔ/  al au aw
+英音 舌头不往后
+美音 舌头往后
+
+### RULE SEVEN [oʊ] as in Most
+/oʊ/ o ow oa
+
+### RULE EIGHT [ər] in Her
+/ər/  er ar ear ir or
+'ə' plus 'r'
+
+### RULE NINE Understanding Stressed Vowels 认识重读音节 
+1.单词中-重读不同音节-音节重读后跟弱化，或音节弱化后跟重读。可能单音标原本就这样读，或者需要根据动名词重读分双音标
+2.句子中-介词，冠词双音标就是句子中需要弱化音节
+banana /bəˈnænə/  three syllables
+Canada /ˈkænədə/  three syllables
+
+### RULE TEN Understanding Reduced Vowels认识弱读音节
+symbol  /ˈsɪmbl/   因为重读第一个音节 所以o not /oʊ/  we reduce it and  we pronounce it as /ə/ 
+local	/ˈloʊkl/   因为重读第一个音节 所以 	a not /æ/ or /ɑ/  we reduce it and  we pronounce it as /ə/ 
+同理
+record /ˈrekərd , rɪˈkɔːrd/
+
+强化stressed  important words like nouns and verbs
+弱化reduced  umimportant words like prepositions and articles(冠词 a an the 用以限定名词)
+	介词 弱化为 /ə/   
+look at me  		look /ə/r  me        at /æt , ət/
+talk to you  		talk t/ə/ you		 to /tu , tə/
+looking for you  	looking f/ə/r you    for /fɔːr , fər/
+
+Let's meet at two o'clock .  let's meet    /ə/ two o'clock.  			o(/ə/)'clock
+I'd like to talk to the pilot.  I'd like t/ə/ talk    t/ə/ the pilot  	/ˈpaɪlət/
+Let's meet for breakfast.   Let's meet     f/ə/r breakfast.   			/ˈbrekfəst/
+I'd love to go for a walk.   I'd love t/ə/ go   f/ə/r a walk.
+
+ps: less    /les/
+	speechless  /ˈspiːtʃləs/   ləs
+	are /ɑːr , er/
+
+### 辅音介绍
+修正常见错误
+ 
+### RULE ONE Fully Pronouncing Each Sound 发准每一个音，发满
+make sure your lip and your tongue on the right place
+
+Five  I got five dollars ,  /v/ just kind of disappears.
+1.Am I pronouncing every consonant? 是否发满每一个辅音
+
+use lip
+probably : 3 times using your lip  p b b   don't take any shorcut缩短 & exaggerated 夸张
+use tongue
+general : 2 times tongue touching the top /n/ /l/  
+in general : 3 times     don't lazy your tongue 偷懒
+seven :  /v/  /n/
+twelve: /t/ /w/ /l/ /v/  diffcult one for people who tend to speak quickly
+
+### RULE TWO Voiced and Voiceless Consonants 清辅音和浊辅音
+Voiced   浊音  vibration n.震动，振动 /vaɪˈbreɪʃn/  vocal n.嗓音 /ˈvoʊkl/
+Voiceless  
+原因：元音在浊音前 is longer  //元音音标一样的情况下，后面跟浊辅音，元音都会变长
+ice	/aɪs/	   eyes /aɪz/  元音 more longer
+back/bæk/	   bag /bæɡ/
+safe	save
+pick    pig
+lock	log
+light	lied
+leat	leave
+cup		cub
+
+### RULE THREE TH音
+hard to make ,其他语言没有
+轻咬舌尖，让气流出来
+/θ/
+bath
+both
+math
+Thank you
+Thursday
+
+/ð/
+father
+mother
+
+### RULE FOUR The American "L" Sound美语中的L音
+/l/
+啦啦啦啦 ，舌尖抵住上颚放松且延长
+soft and prolong
+feel
+school
+feel ill
+awful	film
+little animal
+
+东亚人发音经常会省略尾音的l, 要发出来软且长
+
+### RULE FIVE The American "R" Sound美语中的R音
+curl v.卷曲/kɜːrl/
+good strong /r/sound : curl your tongue and pull it back.   and /ənd , ænd/
+英音 r通常不发音
+teacher 
+learn
+German
+
+美音 要发出来且good strong
+
+### RULE SIX The "w" Sound w音
+/w/ 也不存在于其他语言中
+round your lip and air flow out
+blow,let the air flow the through  吹气,让空气流过过通道
+
+wait  别发成/v/
+wait for me
+welcome
+always
+
+/kw/
+quick
+quiet
+question
+require
+quality
+liquid
+
+### RULE SEVEN The "v" and "w" Sound V和W音
+轻咬下唇，让气流通过
+very
+vote
+five	don't neglcted /v/
+seven eleven
+
+vest/v/   west/w/
+vow  wow
+vet wet
+vine wine
+
+### RULE EIGHT The "s" and "z" Sound VS和Z音
+/s/
+/z/
+has
+bags
+
+清音接清音
+books   /k/ /s/one voiceless with another voiceless
+laughs  /f/ /s/
+
+voiced浊音接浊音,元音接/z/
+lives  /v//z/
+feels  /l//z/
+cares  /r//z/
+doctor  /r//z/
+
+is  /z/
+was 
+these
+those
+please
+always /ˈɔːlweɪz/
+
+### RULE NINE Stops and Continuants停顿和连续音
+辅音另一种分类
+停止音 和 连续音(气体可以在肺中)
+/b/        /m/ /s/
+	
+sometimes  /s/ /m/ /m/  prolong继续音 fully，别rush，cut
+
+have  /v/  
+pop music    辅音前的stop音别释放， 和失爆一样的
+job market
+had this
+
+保持口型，但不释放。
+I am not that hot.  Held T
+
+### RULE TEN "T Between Two Vowels"两元音之间的T
+美音Flap t
+T = D / fast d.  快速的d.
+better city
+it is 
+water
+auto
+metal
+medal
+
+### RULE ELEVEN "T" followed by "N" TN组合
+美音Vanishing T   /t/遇到/n/尾音，t不释放顺滑到/n/, 不用舌头两次顶上颚
+written   /t/和/n/ 之间的音会直接省略
+mountain
+
+
+### RULE TWELVE THE "ING" Sound ING组合
+保持/g/ 然后鼻音，后鼻音
+
+### RULE THIRTEEN "TR" and "DR" Sounds TR和DR音 chr  jr
+tr  == chr / soft don't say /t//r/
+control /kənˈtroʊl/
+
+dr  == jr   soft   don't say /d/ /r/ 
+dry /draɪ/
+drastic /ˈdræstɪk/
+
+### RULE FOURTEEN "TU" and "DU" Sounds TU和DU音  /tʃu/ /dʒu/
+tu = chew  /tʃu/
+statue /ˈstætʃuː/
+can't you
+
+du = jew 	/dʒu/
+graduate  /ˈɡrædʒuət , ˈɡrædʒueɪt/
+did you  /dɪd jə/
+
+### FULE FIFTEEN "ED" Endings ED结尾
+三种读法
+waited /ˈweɪtɪd/   t 或 d 在前时 ed发/ɪd/
+needed /ˈniːdɪd/
+attended /əˈtendɪd/
+
+stopped /stɑːpt/ 清辅音在前 ed发/t/
+worked  /wɜːrkt/
+passed  /pæst/ 与past 同音
+
+robbed /rɑːbd/  浊辅音在前 ed 发 /d/
+loved /lʌvd/
+used  /juːzd , juːst/
+called /kɔːld/
+
 
 ## sentence2	rhythm and intonation 15 rules  节奏和语调15条规则
 
-
-### 音节重读	
-RULE ONE 	Basics of syllable stressed	基本音节重读
+###  音节重读	RULE ONE 	Basics of syllable stressed	基本音节重读
 	
 ①单音节只重读第一个
 音标标注的重读音节 多听多习惯
@@ -549,7 +848,7 @@ pronoun	代词pron.			I you he this my
 adjective	形容词adj. / a.	good bad nice
 numeral	数词num.			one the first
 verb	动词v.				say look		transitive verb  及物动词vt. 可以直接加宾语的动作	have eat
-adverb	副词ad. /adv.		修饰动词、形容词、副词,方式和程度  very quickliy clearly
+adverb	副词ad. /adv.		修饰动词、形容词、副词,  方式和程度  very quickliy clearly 一般既是形容词也是副词
 
 ## 虚词form word
 
