@@ -1,5 +1,3 @@
-# Sounds-American
-
 英语替换，先回车把共同特征分散给行，再正则
 
 pronuciation   三步走 锻炼耳朵+锻炼嘴巴+积累规律     
@@ -9,7 +7,7 @@ every single vocabulary should be pronuciation clearly 每个单词都需要发�
 
 reference video
 Sounds American IPA		https://soundsamerican.net/
-美国斯坦福大学语言学教授Lisa kk音标 	https://www.bilibili.com/video/BV12J411D7W7?vd_source=179f5cebc960468109d655e8670af6c9&p=2&spm_id_from=333.788.player.switch 
+美国大学语言学教授Lisa kk音标 	https://www.bilibili.com/video/BV12J411D7W7?vd_source=179f5cebc960468109d655e8670af6c9&p=2&spm_id_from=333.788.player.switch 
 半小时搞定语法	https://www.zhihu.com/question/30030877/answer/768501967
 
 # 一级
@@ -40,10 +38,10 @@ tense    lips even tongue tense
 后元音	
 	nu	ʌ		长大嘴的ə额								just /dʒʌst/	4		budget	预算ˈbʌdʒɪt		张牙4 倒D肥 放松 舌头正常中央	
 		ɑː/ɒ	舌尖顶住下牙 啊/	  nu				got /ɡɑːt/		5		hotspot 热点ˈhɑːt spɑːt		张牙5 倒D肥++ 舌紧低/尖近牙	   /ɒ 对应 ɑ  ，有时ɒ/ɔ
-		u		整个舌头往后扯上提						blue /bluː/		2		
+		u		整个舌头往后扯上提						blue /bluː/		2	   字母为oo时很难区分发u还是ʊ，经常要查字典
 	nu	ʊ		整个舌头往后扯上提						put /pʊt/		2.5		portfolio 文件夹pɔːrtˈfoʊlioʊ
-		-- oʊ/əʊ	整个舌头往后扯上提					go /ɡoʊ/		3-2.5				overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/							
-		ɔː  	整个舌头往后扯上提 有时 ɒ/ɔ				all /ɔːl/	 	4.5		oriented 面向的ˈɔːrientɪd	versus 哦：无需张嘴  区别：嘴巴抡圆了+ ː延长  door floor poor store   dog dɔɡ/dɔːɡ  hot lot shop 英音舌头不往后
+		-- oʊ/əʊ	整个舌头往后扯上提					go /ɡoʊ/		3-2.5	overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/							
+		ɔː  	整个舌头往后扯上提 有时 ɒ/ɔ				all /ɔːl/	 	4.5		oriented 面向的ˈɔːrientɪd	 英音舌头不往后
 		            		 		 													
 
 开合
@@ -57,7 +55,7 @@ tense    lips even tongue tense
 儿化
 元音	ɑːr 	舌尖顶住下牙+莲花舌						car	/kɑːr/		5-1			ar		archive  归档 ˈɑːrkaɪv
 		er		舌尖几乎顶住下牙+莲花舌					chair /tʃer/	4-1			are		barely 仅仅，几乎ˈberli
-		ər /ɚ	+莲花舌		其实是单音节				after /ˈæftər/	3			or		英/ˈɑːftə(r)/ 		advisor 顾问/ædˈvaɪzər
+		ər /ɚ	+莲花舌	 IPA是单音节	Lisa /ə/+/r/	after /ˈæftər/	3			or		英/ˈɑːftə(r)/ 		advisor 顾问/ædˈvaɪzər
 		ɔːr		整个舌头往后扯上提+莲花舌				sport /spɔːrt/	4.5-1		or		oriented 面向的ˈɔːrientɪd
 		ɜːr/ɝ	莲花舌		其实是单音节				first /fɜːrst/	3			er		certain 确定/某些sɜːrtn		word 单词/wɜːrd/   世界world/wɜːrld/
 		ɪr 		抬舌+莲花舌								hero /ˈhɪroʊ/	2.5-1		ere		atmosphere 气氛ˈætməsfɪr
@@ -66,17 +64,21 @@ tense    lips even tongue tense
 
 ## 24辅音  	consonant
 清音surd	浊音.sonant(喉咙声带震动)  
-ps: 元音接浊辅音，元音都会变长  
+ps: 元音接浊辅音，元音都会变长 ，浊音，元音接/z/
+	爆破音/stop  持续音(要发满,肺中有气)
 
-爆破音	
+爆破音	（失爆：后接辅音保持动作，不释放）
 		p	抿嘴爆破 嘴皮要动							pie /paɪ/       2
 		b.	抿嘴爆破 嘴皮要动							boy /bɔɪ/		2
 		
-		t	舌尖抵上颚阻止气流，后拉舌释放气流			toy /tɔɪ/		1-2
+		t	舌尖抵上颚阻止气流，后拉舌释放气流			toy /tɔɪ/		1-2	 
+				Held T：end the world ,next 辅音     
+				flap t两个元音中间的t 单词/双词  发快速的d. 从top轻快的tap water=wa-der city=ci-dy later=la-der better=be-der /what is=wha-dis but i=bu-die get a=ge da	 out of=ou dof
+			    vanishing t  /t/ /n/ 组合直接 顺滑为/n/，且可省略中间的音
 		d.	舌尖抵上颚阻止气流，后拉舌释放气流			dog /dɔːɡ/		1-2
 		
-		k	后舌触上喉									key /kiː/		1-2
-		g .	舌后触上喉									gift /ɡɪft/		1-2
+		k	后舌触上喉  ，后舌音						key /kiː/		1-2
+		g .	舌后触上喉 	，后舌音						gift /ɡɪft/		1-2
 
 		 
 摩擦音	（气流都是从舌头上过）
@@ -90,10 +92,9 @@ ps: 元音接浊辅音，元音都会变长
 		ð.	轻咬舌尖 让气流通过							this /ðɪs/		1
 		
 		ʃ	舌中部斜向上顶								show /ʃoʊ/		1
-		ʒ.	舌中部斜向上顶											vision /ˈvɪʒn/  1   与
+		ʒ.	舌中部斜向上顶	与							vision /ˈvɪʒn/  1   
 		
 		h	小嘴哈气									home /hoʊm/		2
-
 		r.	舌头莲花形	卷曲 good&strong				run /rʌn/		1		英音r一般不发音  
 		
 			浊化
@@ -102,22 +103,22 @@ ps: 元音接浊辅音，元音都会变长
 
 	
 破擦音  （气流都是从舌头上过）
-		tʃ	舌尖顶上颚 放气  撤							chair /tʃer/ 	1
-		dʒ.	舌尖顶上颚 放气  举 doge /doʊdʒ/			job /dʒɑːb/	 	2 	IPA为 者（IPA纯发音不一定对，更重一点）	
+		tʃ	舌尖抵上齿龈 放气  撤							chair /tʃer/ 	1
+		dʒ.	舌尖抵上齿龈 放气  举 doge /doʊdʒ/			job /dʒɑːb/	 	2 	IPA为 者（IPA纯发音不一定对，更重一点）	
 
 鼻辅音  （声流从鼻子出）
 		m.  闭唇										map /mæp/       0
-		n.  舌尖顶上颚									nice /naɪs/		1
-		ŋ.  整个舌头往后扯上提且舌尾触上											thing /θɪŋ/		2
+		n.  舌尖面抵住上齿龈									nice /naɪs/		1
+		ŋ.  舌后触上喉 后鼻音							thing /θɪŋ/		2
 		
-舌边音	I.	舌尖顶上颚  wu	Lisa 饿 					let /let/		1		fail 失败 /feɪl/     发音软且长
+舌边音	I.	舌尖面抵住上齿龈  wu	Lisa 饿 发音软且长			let /let/		1		fail 失败 /feɪl/     
 
 半圆音	w. 	我	圆嘴 吹气让空气通过						way /weɪ/ 		1-2.5
 		j.	吔	舌头中部往前上顶						yes /jes/		1
 
 
 发音   应该注意流畅（肌肉位置帮助发力，且更清晰），流畅自然就顺了,  张嘴度看张牙度(下颌),牙齿长大  ， 唇型 圆哦O，正常放松 ，微V /ʊ/,  微笑一 /s/
-发准每一个辅音，确保舌头和嘴巴在正确的位置
+发准每一个辅音，确保舌头和嘴巴在正确的位置， /v/ 别发成 /w/ ，爆破音要爆出来t d. k g. p b. , 辅音肺中充满气。
 
 ### ɒ
 
@@ -125,30 +126,65 @@ ps: 元音接浊辅音，元音都会变长
 老版DJ音标记作/ɔ/
 由于美音读/ɑː/，因此对应KK音标的记作/ɑ/
 
+tr  == chr / soft don't say /t//r/
+control /kənˈtroʊl/
+
+dr  == jr   soft   don't say /d/ /r/   举  舌尖面抵住上齿龈后部      /dʒ./-舌尖抵上齿龈
+dry /draɪ/
+drastic /ˈdræstɪk/
+
+tu = chew  /tʃu/
+statue /ˈstætʃuː/
+can't you
+
+du = jew 	/dʒu/
+graduate  /ˈɡrædʒuət , ˈɡrædʒueɪt/
+did you  /dɪd jə/
+
+ps：?个人猜测 formal /ˈfɔːrml/  ml = /moul/ 
+	美音er = /ər/  英音er= uh /ʌh/  teacher= tee chuh  printer = prin tuh
 
 ### 连读规则（读快）
 
 
 1.辅音+元音 两相连 look at = loo kat
 2.辅音+辅音	相似辅音读一次 Yes sir = Ye sir
-			失爆p b. t d. k g.	爆破音遇辅音不发声 stop tall = sto tall	
+			失爆p b. t d. k g.	爆破音遇辅音不发声 stop tall = sto tall	 speed to = spee t/e/
 			爆破结尾失爆破 let me = le me 		
 			
 3.元音+元音 多个音	see it = see /j/it
 					do it = do	/w/it
 4.省略h(常用her him)	tell him = tell im
 5.l n r遇元音(多个音)	double of = double /l/of				/ˈdʌbl/
-						an apple = an /n/apple
+						an apple = an /n/applesuppose
 						your eyes = your /r/eyes
 6.s t d遇you(要变音)	miss you = mee	tyou /tʃuː/ 
 						did you = di dyou/dʒuː/
 
-7. of 通常为 ə	
+### 浊化
+s后面的清辅音要浊化  t to d.  k to g. p to b. schema stand skin spend sky  student/ˈstuːdnt/
+清辅音左右为元音  	better/ˈbetər/  water/ˈwɔːtər/  bucket/ˈbʌkɪt/  happen/ˈhæpən/ happy/ˈhæpi/  open/ˈoʊpən/  PS: ?重读之下貌似没变 suppose /səˈpoʊz/ 
 
-PS: 浊化
-s后面的清辅音要浊化  t to d.  k to g. p to b. stand skin spend sky
-清辅音左右为元音 	better water bucket
 清辅音后面为/l/		little   vocal 
+
+
+### 句子中介词和冠词 
+弱化为 /ə/  of = /ə/f  ，连词就见一个and /ənd , ænd/
+
+### ed三种读法
+waited /ˈweɪtɪd/   t 或 d 在前时 ed发/ɪd/
+needed /ˈniːdɪd/
+attended /əˈtendɪd/
+
+stopped /stɑːpt/ 清辅音在前 ed发/t/
+worked  /wɜːrkt/
+passed  /pæst/ 与past 同音
+
+robbed /rɑːbd/  浊辅音/元音在前 ed 发 /d/
+loved /lʌvd/
+used  /juːzd , juːst/
+called /kɔːld/
+verified /ˈverɪfaɪd/
 
 ### American T
 						
@@ -156,9 +192,10 @@ True T : until hotel return		两辅音cluster ST-stop  STR-street  TR-tree 	CT-f
 Flap T (t在两元音之间-单词)	：water = wa-der	city=ci-dy		later = la-der 		better = be-der		
 	   (t在两元音之间-双词)	: what is = wha-dis		but i = bu-die		get a = ge da		
 Held T / Stop T	(end of word):	about that=abou that	it was= i was	
-				(next 辅音)	： outside= ou-side  apartment=apar-ment	
+				(next 辅音)	： outside= ou-side /ˌaʊtˈsaɪd , ˈaʊtsaɪd/  apartment=apar-ment  slightly= sligh ly /ˈslaɪtli/
 				NT:	student=studen 	president=presiden
-Vanishing T :	internet=innernet	printer=prinner	 (native speaker	drop t	n sound instead easy to say  google上有读ʔ. 这个少
+Vanishing T :	internet=innernet	printer=prinner	 (native speaker	drop t	n sound instead easy to say  google上有读ʔ. 这个少  为了省略/n/ /t/ 舌尖从上颚tap两次
+				一般是t...n 组合，prinner这个太极端了。
 
 
 
